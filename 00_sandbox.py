@@ -1,4 +1,4 @@
-# get name until an exit code is entered...
+# get name until an exit code is entered..
 
 name = ""
 while name.lower() != "xxx":
